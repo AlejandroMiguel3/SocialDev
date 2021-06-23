@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://csharpminor7:csharpminor7@devconnector.qj1do.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secretToken"
+}
